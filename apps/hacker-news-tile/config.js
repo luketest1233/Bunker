@@ -1,7 +1,7 @@
 window.apps["hacker-news-tile"] = {};
 window.apps["hacker-news-tile"]["tile"] = `<div class="box_widget">
 	<div>
-		<h3>Hacker News</h3>	
+		<h3>Bookmarklets</h3>	
 	</div>
 	<div>
 		<ul class="list">
