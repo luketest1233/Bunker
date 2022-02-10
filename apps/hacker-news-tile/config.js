@@ -7,9 +7,9 @@ window.apps["hacker-news-tile"]["tile"] = `<div class="box_widget">
 	</div>
 	<div>
 		<ul class="list">
-		<li class="news-item"><a id="news0">Loading...</a></li>
-			<li><a href="javascript:window.location.replace('https://google.com');">Take page out of history</a></li>
-			<li ><a href="javascript:document.querySelectorAll('*').forEach(e=>e.setAttribute('style','background-color:#222;background-image:none;color:#'+(/^A|BU/.test(e.tagName)?'36c;text-decoration:underline;':'eee;')+e.getAttribute('style')))">dark mode</a></li>
+	
+			<li><a id="news1" href="javascript:window.location.replace('https://google.com');">Take page out of history</a></li>
+			<li ><a id="news2" href="javascript:document.querySelectorAll('*').forEach(e=>e.setAttribute('style','background-color:#222;background-image:none;color:#'+(/^A|BU/.test(e.tagName)?'36c;text-decoration:underline;':'eee;')+e.getAttribute('style')))">dark mode</a></li>
 			<li ><a id="news3">Loading...</a></li>
 			<li ><a id="news4">Loading...</a></li>
 		</ul>
