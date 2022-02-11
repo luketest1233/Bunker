@@ -5,7 +5,7 @@ window.apps["prxyz"]["tile"] = `<div class="box_widget">
 	</div>
 	<div>
 		<ul class="list">
-			<li>the long (4 days) awaited feature is here:</li>
+			
 			<li>open node:
 				<select class="btn-inline minize" id="prxyz_select">
 					<option>none</option>
@@ -26,6 +26,9 @@ window.apps["prxyz"]["tile"] = `<div class="box_widget">
 				</select>
 			</li>
 		</ul>
+	
+		<h5>Pro&zwj;xies down, or just not functioning? use your own. (coming soon)</h5>
+		
 	</div>
 	<script src="apps/prxyz/tile.js"></script>
 </div>`;
