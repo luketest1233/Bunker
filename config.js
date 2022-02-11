@@ -6,7 +6,7 @@ window._config = {
 		"info",
 		"mpviewer",
 		"conn_stats",
-		"hacker-news-tile",
+		"bookmarklet-tile",
 		"sample-games"
 	]
 }
